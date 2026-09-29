@@ -1,0 +1,11 @@
+{
+ "payload": {
+  "app": "freenippo",
+  "latest_version": "0.29.0",
+  "url": "https://github.com/Chuo-Hiza/freenippo-release/releases/download/v0.29.0/FreeNippo_update_v0.29.0.zip",
+  "sha256": "752baced881be7faf6a563e7831b836ce132ac5a572ee114f9f13e2b026ca05e",
+  "size": 92231424,
+  "notes": "v0.29.0: 本番署名鍵への移行／帳票ブロック設定の伝搬修正／インストーラ更新時の鍵・DB復元の修正"
+ },
+ "signature": "04efceed7deb2f5d12bd0e47fdfc01d7a5b46acea48c8c5b566acf1e9b281d4d2a411dbf1477b072960c97f3adcd5657b1fe7ddc0aa8d93aec83133165cc5e01"
+}
